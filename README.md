@@ -5,7 +5,15 @@ Alunos: Ezequiel Leandro
         Nikolas  
         Thaís  
         Vinicio Soares  
-        
+        classDiagram
+    class Alunos{
+     -Ezequiel
+     -Jacqueline
+      -Nikolas
+      -Thaís
+      -Vinicio
+    }
+
 Professor: André Ribeiro
 
 Data prevista para entrega: XX/08/2024 
