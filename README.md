@@ -9,9 +9,11 @@
 - [x] Vinicio Soares  
         
 
-Professor: André Ribeiro
+#### Professor:  
 
-Data prevista para entrega: XX/08/2024 
+- [x] André Ribeiro
+
+#### Data prevista para entrega: XX/08/2024 
 
 ---
 
