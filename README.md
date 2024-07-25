@@ -1,11 +1,12 @@
 # Back-End com Python / Turma: 03
 
-Alunos:  
-        Ezequiel Leandro  
-        Jacqueline Navarro  
-        Nikolas  
-        Thaís  
-        Vinicio Soares  
+####Alunos:  
+
+- [x] Ezequiel Leandro  
+- [x] Jacqueline Navarro  
+- [x] Nikolas  
+- [x] Thaís  
+- [x] Vinicio Soares  
         
 
 Professor: André Ribeiro
@@ -14,7 +15,8 @@ Data prevista para entrega: XX/08/2024
 
 ---
 
-# Projeto - Modelagem de Sistema de Gerenciamento de Projetos
+## Projeto:
+# Modelagem de Sistema de Gerenciamento de Projetos
 
 Descrição do Cenário:
 Uma empresa de software deseja implementar um sistema para gerenciar seus projetos,
