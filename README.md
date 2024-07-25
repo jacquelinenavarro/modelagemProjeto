@@ -1,6 +1,6 @@
 # Back-End com Python / Turma: 03
 
-####Alunos:  
+#### Alunos:  
 
 - [x] Ezequiel Leandro  
 - [x] Jacqueline Navarro  
@@ -40,7 +40,7 @@ CLASSES:
 - Nome do projeto
 - Data de início
 
-2 - FUNCIONÁRIOS
+2 - FUNCIONÁRIO
 - N° de identificação
 - Nome do funcionário
 - Cargo
