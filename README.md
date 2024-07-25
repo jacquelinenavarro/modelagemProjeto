@@ -13,7 +13,9 @@
 
 - [x] André Ribeiro
 
-#### Data prevista para entrega: XX/08/2024 
+#### Data prevista para entrega:  
+
+- [x] XX/08/2024 
 
 ---
 
