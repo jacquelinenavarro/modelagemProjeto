@@ -1,9 +1,9 @@
 # Back-End com Python / Turma: 03
 
-Alunos: Ezequiel Leandro
-        Jacqueline Navarro
-        Nikolas
-        Thaís
+Alunos: Ezequiel Leandro;
+        Jacqueline Navarro;
+        Nikolas;
+        Thaís;
         Vinicio Soares
 
 Professor: André Ribeiro
@@ -48,8 +48,8 @@ CLASSES:
 
 ### Divisão das Tarefas:
 
--[x] Criar classe Projeto: Thaís
--[x] Criar classe Funcionário: Jacqueline
--[x] Criar classe Alocação de Projeto: Nikolas
--[x] Instanciar
--[x] Teste: Ezequiel
+- [x] Criar classe Projeto: Thaís
+- [x] Criar classe Funcionário: Jacqueline
+- [x] Criar classe Alocação de Projeto: Nikolas
+- [x] Instanciar
+- [x] Teste: Ezequiel
