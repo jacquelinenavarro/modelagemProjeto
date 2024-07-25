@@ -1,18 +1,12 @@
 # Back-End com Python / Turma: 03
 
-Alunos: Ezequiel Leandro  
+Alunos:  
+        Ezequiel Leandro  
         Jacqueline Navarro  
         Nikolas  
         Thaís  
         Vinicio Soares  
-        classDiagram
-    class Alunos{
-     -Ezequiel
-     -Jacqueline
-      -Nikolas
-      -Thaís
-      -Vinicio
-    }
+        
 
 Professor: André Ribeiro
 
