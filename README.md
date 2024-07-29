@@ -4,8 +4,8 @@
 
 - [x] Ezequiel Leandro  
 - [x] Jacqueline Navarro  
-- [x] Nikolas  
-- [x] Thaís  
+- [x] Nikolas Martins 
+- [x] Thaís de Souza
 - [x] Vinicio Soares  
         
 
@@ -50,8 +50,8 @@ CLASSES:
 - Cargo
 
 3 - ALOCAÇÃO DO PROJETO
-- Código (Herda de Projeto)
-- Nome do funcionário (Herda de Funcionários)
+- Código
+- Nome do funcionário
 - Data de início de alocação
 
 ### Divisão das Tarefas:
@@ -60,4 +60,4 @@ CLASSES:
 - [x] Criar classe Funcionário: Jacqueline
 - [x] Criar classe Alocação de Projeto: Nikolas
 - [x] Instanciar: Vinicio
-- [x] Teste: Ezequiel
+- [x] Testes: Ezequiel
