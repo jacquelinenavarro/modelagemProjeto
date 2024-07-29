@@ -5,5 +5,5 @@ class Funcionario:
         self.cargo = cargo
         self.genero = genero
 
-    def __repr__(self):
+    def descrever_funcionario(self):
         return f"Funcionario(id={self.id}, nome={self.nome}, cargo={self.cargo}, genero={self.genero})"
