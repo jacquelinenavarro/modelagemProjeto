@@ -15,7 +15,7 @@
 
 #### Data prevista para entrega:  
 
-- [x] XX/08/2024 
+- [x] 19/08/2024 
 
 ---
 
