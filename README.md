@@ -59,4 +59,3 @@ CLASSES:
 - [x] Criar classe Funcionário: Jacqueline
 - [x] Criar classe Alocação de Projeto: Nikolas
 - [x] Instanciar: Vinicio
-- [x] Testes: Ezequiel
