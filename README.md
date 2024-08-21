@@ -2,7 +2,6 @@
 
 #### Alunos:  
 
-- [x] Ezequiel Leandro  
 - [x] Jacqueline Navarro  
 - [x] Nikolas Martins 
 - [x] Thaís de Souza
@@ -15,7 +14,7 @@
 
 #### Data prevista para entrega:  
 
-- [x] 19/08/2024 
+- [x] 21/08/2024 
 
 ---
 
